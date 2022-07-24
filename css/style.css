@@ -26,24 +26,24 @@ h3{
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
     background-color: #DFF6FF;
-border-radius: 20px;
-width: 200px
+    border-radius: 20px;
+    width: 11vw;
 }
 a{
     display: inline-block;
-    width: 150px;
+    width: 10vw;
     
 }
 
 .me{
-    margin: 0 50px ;
-    width:200px ;
+    margin: 0 10vh ;
+    width:20vh ;
     float:left;
 }
 
 .resume{
     width: 50%;
-    padding-top:50px;
+    padding-top:10vh;
     margin: auto;
 
 }
@@ -51,9 +51,9 @@ a{
     background-color: #f0ecc8;
     position: fixed;
     text-align: center;
-    top: 0px;
-    padding-top: 20px;
-    padding-bottom: 30px;
+    top: 0;
+    padding-top: 5vh;
+    padding-bottom: 3vh;
     height: 9vh;
     width:100vw;
 
@@ -61,7 +61,7 @@ a{
 
 .middlecontainer{
 
-    margin:0px;
+    margin:0;
     background-color: #C4DFAA;
     height: 100vh;
 
