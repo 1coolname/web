@@ -23,12 +23,12 @@ h2{
     font-weight: normal;
 }
 h3{
-    font-weight:600;
+    font-weight:400;
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
     background-color: #DFF6FF;
     border-radius: 20px;
-    width: 11vw;
+    width: 15vw;
 }
 a{
     display: inline-block;
