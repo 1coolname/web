@@ -37,14 +37,14 @@ a{
 }
 
 .me{
-    margin: 0 10vh ;
-    width:20vh ;
+    margin: 0vw 5vw;
+    width:10vw ;
     float:left;
 }
 
 .resume{
     width: 50%;
-    padding-top:10vh;
+    padding-top:5vh;
     margin: auto;
 
 }
